@@ -28,15 +28,15 @@ Find answers: Find answers to any specific question from previously answered pos
 ### Example use cases for Reddit Insights
 
 - Example 1: Analyzing the experience of Vision Pro users
-  <img src="{{'/assets/post_2024-03-21/visionpro_q1_topics.png' | prepend: site.baseurl}}" alt="top topics">
-  <img src="{{'/assets/post_2024-03-21/visionpro_q2_negative_sentiments.png' | prepend: site.baseurl}}" alt="negative sentiments">
-  <img src="{{'/assets/post_2024-03-21/visionpro_q3_tech_issues.png' | prepend: site.baseurl}}" alt="Technical issues">
+  <img src="{{'/assets/post_2024-03-21/visionpro_q1_topics.png' | relative_url}}" alt="top topics">
+  <img src="{{'/assets/post_2024-03-21/visionpro_q2_negative_sentiments.png' | relative_url}}" alt="negative sentiments">
+  <img src="{{'/assets/post_2024-03-21/visionpro_q3_tech_issues.png' | relative_url}}" alt="Technical issues">
 
 - Example 2: Quick research on Solar
-  <img src="{{'/assets/post_2024-03-21/solar_q1_pie_chart.png' | prepend: site.baseurl}}" alt="top topics">
-  <img src="{{'/assets/post_2024-03-21/solar_q2_common_issues.png' | prepend: site.baseurl}}" alt="common issues">
-  <img src="{{'/assets/post_2024-03-21/solar_q3_recommended_brand.png' | prepend: site.baseurl}}" alt="Recommended brands for Q3">
-  <img src="{{'/assets/post_2024-03-21/solar_q4_avoid_brand.png' | prepend: site.baseurl}}" alt="Brands to avoid in Q4">
+  <img src="{{'/assets/post_2024-03-21/solar_q1_pie_chart.png' | relative_url}}" alt="top topics">
+  <img src="{{'/assets/post_2024-03-21/solar_q2_common_issues.png' | relative_url}}" alt="common issues">
+  <img src="{{'/assets/post_2024-03-21/solar_q3_recommended_brand.png' | relative_url}}" alt="Recommended brands for Q3">
+  <img src="{{'/assets/post_2024-03-21/solar_q4_avoid_brand.png' | relative_url}}" alt="Brands to avoid in Q4">
 
 We're just starting out, and we’d love your help! Check out our application at [redditinsights.theanalyticsai.com](https://redditinsights.theanalyticsai.com/) and see how it can help you make better decisions, whether it’s for shopping or improving your business. We welcome everyone to share feedback, suggest improvements, and join us on this journey.
 
