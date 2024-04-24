@@ -18,22 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The Analytics AI Blogs
+email: postbox_speedy.0f@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Our goal at TheAnalyticsAI is to create an analytical copilot specialized for 
+  data analysis. By leveraging the power of generative AI 
+  and large language models (LLMs), we aim to create specialized 
+  agents that can automate the entire data analytics process. These 
+  agents will be able to ingest raw data, identify patterns and 
+  trends, and generate insights that can directly address the pressing 
+  questions and concerns of businesses.
+baseurl: "/blogs/theanalyticsai/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username: jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

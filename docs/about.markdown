@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Our vision at TheAnalyticsAI is to transform the fundamental way we approach data analysis. By leveraging the power of generative AI and large language models (LLMs), we aim to create specialized agents that can automate the entire data analytics process. These agents will be able to ingest raw data, identify patterns and trends, and generate insights that can directly address the pressing questions and concerns of businesses.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+TheAnalyticsAI is intended to be an open-source project. Soon, we will be releasing the code, allowing developers and data enthusiasts from around the world to contribute, enhance, and build upon our work.
